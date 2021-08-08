@@ -1,0 +1,6 @@
+schematics i2c-iso.sh
+output-name ../pcb/i2c-iso
+skip-m4
+elements-dir ../../ise-footprints
+
+
